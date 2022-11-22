@@ -1,3 +1,3 @@
-# This is a repo of mini-projects as I brush up on Vanilla JS
+# Mini-Projects made in Vanilla JS 🏝
 
-[Vanilla JS Random Colour Generator - *Code Sandbox Link*](https://codesandbox.io/s/vanilla-js-random-colour-generator-djkjx4)
+[🎨 Random Colour Generator - *Code Sandbox Link*](https://codesandbox.io/s/vanilla-js-random-colour-generator-djkjx4)
