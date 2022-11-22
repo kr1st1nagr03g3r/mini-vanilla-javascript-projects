@@ -1,0 +1,24 @@
+{
+  "name": "increase-decrease-and-reset-number-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@emmetio/css-snippets-resolver": "0.4.0",
+    "emmet": "2.3.6",
+    "eslint-config-prettier": "8.5.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "typescript": "4.4.4"
+  },
+  "resolutions": {
+    "@babel/preset-env": "7.13.8"
+  },
+  "keywords": []
+}
